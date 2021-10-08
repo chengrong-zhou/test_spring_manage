@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="itheima_mubatis_quick" />
+        <module name="itheima_mybatis_config" />
+        <module name="itheima_mybatis_dao" />
+        <module name="mavenDemo" />
+        <module name="test_spring_manage" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
